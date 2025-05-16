@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManagerMVC", "PlayerM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManagerMVC2", "PlayerManagerMVC2\PlayerManagerMVC2.csproj", "{42428F7A-2DA3-4D8E-B3A1-1E59CF5EA96A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheWord", "GuessTheWord\GuessTheWord.csproj", "{0647002C-E6A8-419B-94CC-0FE70666EE6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{42428F7A-2DA3-4D8E-B3A1-1E59CF5EA96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42428F7A-2DA3-4D8E-B3A1-1E59CF5EA96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42428F7A-2DA3-4D8E-B3A1-1E59CF5EA96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0647002C-E6A8-419B-94CC-0FE70666EE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0647002C-E6A8-419B-94CC-0FE70666EE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0647002C-E6A8-419B-94CC-0FE70666EE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0647002C-E6A8-419B-94CC-0FE70666EE6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
