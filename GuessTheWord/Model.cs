@@ -25,6 +25,11 @@ public class Model
         };
     }
 
+    public Model(IDictionary<string, string> wordsWithHints)
+    {
+        WordsWithHints = wordsWithHints;
+    } 
+
     public void SelectRandomWord()
     {
         Random rand = new Random();
